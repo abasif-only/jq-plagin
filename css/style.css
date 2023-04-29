@@ -1,0 +1,14 @@
+.box{
+  margin: 10px;
+  min-height: 400px;
+}
+.black{
+  background-color: black;
+}
+.blue{
+  background-color: blue;
+}
+.bubble{
+  width:100%;
+  height:100vh;
+}
